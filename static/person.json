@@ -1,0 +1,28 @@
+{
+    "flag": true,
+    "data": {
+        "id": "101",
+        "username": "shanpa01",
+        "headimgurl": "UserFace/201707121127284704.jpeg",
+        "face": "UserFace/201707121127284704.jpeg",
+        "nickname": "闪趴客服",
+        "sex": "1",
+        "option": "1",
+        "third_id": "1",
+        "manag": "1",
+        "lev": "1",
+        "pabi": "43446.27",
+        "exp": "0",
+        "phone": "18930878891",
+        "feed_status": "1",
+        "comment_status": "1",
+        "inv_code": "108350",
+        "reward_num": "4.00",
+        "follow_num": 7,
+        "fens_num": 7,
+        "card_num": 1,
+        "liushui": null,
+        "lingdui": null,
+        "vip_info": null
+    }
+}

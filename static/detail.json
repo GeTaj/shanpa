@@ -1,0 +1,183 @@
+{
+    "id": "1133",
+    "aname": "小周末出来浪｜KTV休闲交友派对",
+    "user_id": "101",
+    "address": "\t 宣化路300号华宁弘基生活中心6层 唛歌时尚KTV",
+    "icon": "wximg/20171016_111939_4694.png",
+    "is_refunt": "0",
+    "liangdian": "<p><strong>嘘，千万别报告老板，我们独自去偷欢~</strong></p><p><br/></p><p>周一困，周二累，还好周三小周末；</p><p>只要再上两天班，就是宇宙无敌双休日！</p><p>这个周末，我要去逛街，要去旅游，要去吃好吃哒，要去喝好喝哒！要玩要闹还要嗨，想想心里还有点小激动呢！</p><p>越想周末心越痒！恨不能天天过周末！这可怎么办？</p><p>与其心痒痒，何不<strong>趁周三，提前过周末？</strong></p><p><br/></p><p><img src=\"http://static.shanpa98.com/wximg/15081230736.jpg\" title=\"15081230736.jpg\" alt=\"timg (1).jpg\"/></p><p><br/></p><p>反正有大把好时光，干脆点，丢下前半周的压力和疲惫，来闪趴小酌几杯，一展歌喉好好放松一把！</p><p>一整晚，能不能唱到尽兴？<br/></p><p>两杯酒，够不够喝到微醺？</p><p>嘘！别告诉Ta，我们独自去偷欢！</p><p><br/></p><p><img src=\"http://static.shanpa98.com/wximg/14975113685.jpg\" title=\"14975113685.jpg\" alt=\"timg (5).jpg\"/></p><p style=\"white-space: normal; text-align: left;\"><strong><br/></strong></p><p style=\"white-space: normal; text-align: left;\"><strong>· 勤劳勇敢的上班族啊！我们提前过周末！</strong></p><p>周末太珍贵，时间过太快~<br/></p><p>眼睛一闭一睁，hia~我的天哪，离周一又近了一点！</p><p>但是周三，一整天都沉浸在对周末的期待中，每一刻都离周末更近一步，开心的都要飞起来了呢！</p><p>这样充满希望的时刻，就应该小小的放纵一下，才不负这大好时光啊！</p><p><br/></p><p><img src=\"http://static.shanpa98.com/wximg/15081234632.jpg\" title=\"15081234632.jpg\" alt=\"timg (3).jpg\"/></p><p style=\"white-space: normal; text-align: left;\"><strong><br/></strong></p><p style=\"white-space: normal; text-align: left;\"><strong>· 一人一首成名曲 会唱歌的你特别迷人</strong></p><p style=\"white-space: normal; text-align: left;\">常去KTV的怎么能没有一首成名曲傍身？</p><p style=\"white-space: normal; text-align: left;\">拿出你的成名曲，和其他小伙伴们一决高下！</p><p style=\"white-space: normal; text-align: left;\">据说唱歌好听的人更迷人哦！唱的好的有奖励！</p><p style=\"white-space: normal;\"><br/></p><p style=\"text-align: center;\"><img src=\"http://static.shanpa98.com/wximg/15081234914.jpg\" title=\"15081234914.jpg\" alt=\"timg (2).jpg\"/></p><p><br/></p><p style=\"white-space: normal; text-align: left;\"><strong>·&nbsp;经典KTV小游戏 玩到眼花缭乱&nbsp;笑到止不住</strong><strong><br/></strong></p><p style=\"white-space: normal; text-align: left;\">担心跟新朋友唱歌放不开？</p><p style=\"white-space: normal; text-align: left;\">闪趴精心准备了许多互动小游戏，让大家迅速熟络起来。</p><p style=\"white-space: normal; text-align: left;\">当然也会有一些搞怪DIY惩罚，欢声笑语止不住。</p><p style=\"white-space: normal;\"><br/></p><p style=\"text-align: center;\"><br/></p><p style=\"text-align: center;\"><img src=\"http://static.shanpa98.com/wximg/15081235337.jpg\" title=\"15081235337.jpg\" alt=\"timg.jpg\"/></p>",
+    "userinfo": {
+        "nickname": "闪趴客服",
+        "face": "UserFace/201707121127284704.jpeg"
+    },
+    "youhui": "",
+    "min_price": "78.00",
+    "lingdui": [],
+    "total_apply_num": 147,
+    "dates_list": [
+        {
+            "id": "2853",
+            "cid": "1133",
+            "start_time": "1508932810",
+            "end_time": "1508943610",
+            "is_show": "1",
+            "lingdui_id": "0",
+            "apply_list": [
+                {
+                    "ticket_type": "man",
+                    "uid": "6428",
+                    "anonymous": "0",
+                    "nickname": "KIMI",
+                    "face": "UserFace/face_6401_1467716877.jpg"
+                },
+                {
+                    "ticket_type": "lady",
+                    "uid": "80266",
+                    "anonymous": "0",
+                    "nickname": "A 千秋梦雪 (ღ˘⌣˘ღ)",
+                    "face": "UserFace/face_80239_1469171018.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2802",
+            "cid": "1133",
+            "start_time": "1508328026",
+            "end_time": "1508338826",
+            "is_show": "0",
+            "lingdui_id": "181180",
+            "apply_list": [
+                {
+                    "ticket_type": "man",
+                    "uid": "188820",
+                    "anonymous": "0",
+                    "nickname": "空荡 forever",
+                    "face": "UserFace/face_188254_1500784771.jpg"
+                },
+                {
+                    "ticket_type": "lady",
+                    "uid": "31687",
+                    "anonymous": "0",
+                    "nickname": "?",
+                    "face": "UserFace/face_31660_1468199076.jpg"
+                },
+                {
+                    "ticket_type": "lady",
+                    "uid": "9737",
+                    "anonymous": "0",
+                    "nickname": "大冷M?",
+                    "face": "UserFace/face_9710_1467808887.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "176912",
+                    "anonymous": "0",
+                    "nickname": "Bohemia世界が終わるまでは?",
+                    "face": "UserFace/face_176718_1489724098.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "206057",
+                    "anonymous": "0",
+                    "nickname": "James Yao",
+                    "face": "UserFace/face_5542_1467743939.jpg"
+                },
+                {
+                    "ticket_type": "lady",
+                    "uid": "208220",
+                    "anonymous": "0",
+                    "nickname": "monster",
+                    "face": "UserFace/face_193238_1505807391.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "63107",
+                    "anonymous": "0",
+                    "nickname": "A          尼坤",
+                    "face": "UserFace/face_63080_1468899709.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "143891",
+                    "anonymous": "0",
+                    "nickname": "where",
+                    "face": "UserFace/face_143864_1469563298.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2739",
+            "cid": "1133",
+            "start_time": "1507723253",
+            "end_time": "1507734053",
+            "is_show": "0",
+            "lingdui_id": "4830",
+            "apply_list": [
+                {
+                    "ticket_type": "lady",
+                    "uid": "1615",
+                    "anonymous": "0",
+                    "nickname": "SWEETMONKEYBABE",
+                    "face": "UserFace/face_1588_1467608848.jpg"
+                },
+                {
+                    "ticket_type": "lady",
+                    "uid": "31279",
+                    "anonymous": "0",
+                    "nickname": "?小呆萌?",
+                    "face": "UserFace/face_31252_1468164418.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "80000",
+                    "anonymous": "0",
+                    "nickname": "Q不死你R",
+                    "face": "UserFace/face_79973_1469167827.jpg"
+                },
+                {
+                    "ticket_type": "lady",
+                    "uid": "172559",
+                    "anonymous": "0",
+                    "nickname": "Ccિિ?",
+                    "face": "UserFace/face_172449_1482889906.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "209521",
+                    "anonymous": "0",
+                    "nickname": "何宇Charlie",
+                    "face": "UserFace/face_194486_1507534421.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "178364",
+                    "anonymous": "0",
+                    "nickname": "在路上",
+                    "face": "UserFace/face_178146_1491099547.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "176020",
+                    "anonymous": "0",
+                    "nickname": "丁检",
+                    "face": "UserFace/face_175848_1488704730.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "172463",
+                    "anonymous": "0",
+                    "nickname": "扬坤／Yangkun",
+                    "face": "UserFace/face_172355_1482736499.jpg"
+                },
+                {
+                    "ticket_type": "man",
+                    "uid": "192624",
+                    "anonymous": "0",
+                    "nickname": "风雨人生",
+                    "face": "UserFace/face_191920_1504347621.jpg"
+                }
+            ]
+        }
+    ],
+    "praise_num": 35
+}

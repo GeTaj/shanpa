@@ -1,5 +1,5 @@
 <template>
-    <ul class="footer">
+    <ul class="footer" v-show="footerShow">
       <li><router-link to="/index">首页</router-link></li>
       <li><router-link to="/order">订单</router-link></li>
       <li><router-link to="/home">我</router-link></li>
@@ -9,6 +9,11 @@
 <script>
 export default {
   name: 'footer',
+  data(){
+    return {
+        footerShow:true
+    }
+  },
   methods:{
   	back:function(){
   		

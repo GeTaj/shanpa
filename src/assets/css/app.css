@@ -1,3 +1,4 @@
+*{ margin: 0; padding:0; list-style:none; }
 ol, ul { list-style-type: none; list-style-position: outside; list-style-image: none; }
 table { border-collapse: collapse; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; }
 caption, th, td { font-weight: normal; vertical-align: middle; }
@@ -35,6 +36,7 @@ html,body{ height:100%;padding:0; margin: 0;}
 }
 #app{
   height: 100%;
+  background:#252525;
 }
 .wrapbox{
   padding:45px 0;
