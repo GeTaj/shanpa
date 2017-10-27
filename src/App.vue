@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <div id="app" class="wrapbox">
     <headerbar></headerbar>
-    <div class="wrapbox"><router-view></router-view></div>
+    <transition name="fade" model="in-out"><router-view></router-view></transition>
     <footerbar></footerbar>
   </div>
 </template>

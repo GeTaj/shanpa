@@ -3,7 +3,7 @@
 	<bannerCom @uploadDate="bannerListen" :pages="showList"></bannerCom>
 	<ul id="details-list" class="details-list" v-cloak>
 	   <li v-for="(value,index) in showList" class="mui-table-view-cell list-item">
-	   	<router-link :to="'/detail?id='+value.id">
+	   	<router-link :to="{query:{id:value.id},path:'/detail'}">
 	        <div class="list-body">
 	            <img :src="'http://static.shanpa98.com/thumb/640/'+value.icon" width="100%" class="list-pic">
 	            <p>{{value.aname}}</p>
@@ -29,6 +29,10 @@ export default{
 	},
 	created(){
 	  this.fetchData();
+	},
+	mounted:function(){
+
+	  console.log(this.$store.state.user_name);
 	},
 	components:{
 		bannerCom

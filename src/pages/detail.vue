@@ -36,6 +36,7 @@ export default{
 	},
 	created(){
 	  this.fetchData();
+	  console.log(2323)
 	},
 	components:{
 		dateComponent:{

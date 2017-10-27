@@ -10,11 +10,12 @@
       @mousemove="swipeMove"
       @webkitTransitionEnd = "onTransitionEnd"
       @transitionend = "onTransitionEnd"
+      
       >
       <!-- 正常滚动 -->
        <template  v-if="!sliderinit.loop">
         <template  v-for="item in pages">
-          <div class="slider-item">
+          <div class="slider-item" @click= "onClick(item)">
             <img :src="'http://static.shanpa98.com/thumb/640/'+item.icon" width="100%">
           </div>
         </template>
@@ -183,6 +184,9 @@ export default {
   	emitIcon:function(){
       this.$emit('uploadDate','我是来自banner11组件');
   	},
+    onClick:function(item){
+      
+    },
     swipeStart (e) {
         let that = this ;
         if(this.basicdata.transitionEnding){
